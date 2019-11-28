@@ -1,6 +1,6 @@
 package skate.com.com.skate.skate;
 
-public class SkateBasicoIguatemi extends Skate{
+public class SkateBasicoIguatemi extends Skate {
 
 	@Override
 	public void preparar() {
@@ -8,7 +8,7 @@ public class SkateBasicoIguatemi extends Skate{
 		System.out.println("Adicionando Lixa hood ");
 		System.out.println("adicionando truck liga ");
 		System.out.println("Adicionando rolamento abec1");
-		System.out.println("Adicionando rodas child");		
+		System.out.println("Adicionando rodas child");
 	}
 
 	@Override
