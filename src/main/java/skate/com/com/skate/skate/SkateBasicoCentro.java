@@ -1,14 +1,14 @@
 package skate.com.com.skate.skate;
 
-public class SkateCentro extends Skate{
+public class SkateBasicoCentro extends Skate{
 
 	@Override
 	public void preparar() {
-		System.out.println("preparando shape tamanho 7.8");
-		System.out.println("Adicionando Lixa fina");
-		System.out.println("adicionando truck 1.39 ");
-		System.out.println("Adicionando rolamento nacional");
-		System.out.println("Adicionando rodas tamanho 51mm");		
+		System.out.println("preparando shape cisco bambu");
+		System.out.println("Adicionando Lixa da loja");
+		System.out.println("adicionando truck crail ");
+		System.out.println("Adicionando rolamento black-sheep");
+		System.out.println("Adicionando rodas hagil");		
 	}
 
 	@Override

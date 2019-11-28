@@ -1,14 +1,14 @@
 package skate.com.com.skate.skate;
 
-public class SkateIguatemi extends Skate{
+public class SkateBasicoIguatemi extends Skate{
 
 	@Override
 	public void preparar() {
-		System.out.println("preparando shape tamanho 8.0");
-		System.out.println("Adicionando Lixa grossa");
-		System.out.println("adicionando truck 1.49 ");
-		System.out.println("Adicionando rolamento importado");
-		System.out.println("Adicionando rodas tamanho 55mm");		
+		System.out.println("preparando shape dropdead marfim");
+		System.out.println("Adicionando Lixa hood ");
+		System.out.println("adicionando truck liga ");
+		System.out.println("Adicionando rolamento abec1");
+		System.out.println("Adicionando rodas child");		
 	}
 
 	@Override
