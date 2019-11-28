@@ -23,7 +23,7 @@ public class SkateBasicoIguatemi extends Skate {
 
 	@Override
 	public void embalar() {
-		System.out.println("embalando skate com chaveio cortesia");
+		System.out.println("embalando skate com chaveiro cortesia");
 	}
 
 	@Override
